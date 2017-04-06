@@ -1,5 +1,5 @@
 # Word-Autocompletion-Using-Trie-Data-Structure
-***This repository contains the code for Autocomplete using Trie Data Structure.***
+***This repository contains the code for Autocompleting the Word based on prefix using Trie Data Structure.***
 
 
 # Requirements
