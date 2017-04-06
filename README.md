@@ -1,4 +1,4 @@
-# Autocomplete-Using-Trie-Data-Structure
+# Word-Autocompletion-Using-Trie-Data-Structure
 ***This repository contains the code for Autocomplete using Trie Data Structure.***
 
 
