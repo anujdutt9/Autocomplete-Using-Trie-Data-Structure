@@ -6,7 +6,11 @@
 
 1. **Python 3 and above**
 
+# Usage
 
+```
+python3 Autocomplete.py
+```
 
 # Result
 
